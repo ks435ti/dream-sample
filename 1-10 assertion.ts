@@ -25,6 +25,6 @@
 
 
 
-    const clientID = "2vkiu8dsqc";
+    const secret = "2vkiu8dsqc";
 
 }
