@@ -22,9 +22,9 @@
 
     const button = document.querySelector('class'); // 이것은 값을 리턴하거나 null 을 리턴한다. 그래서 확신하는 경우가 아니면 ! 는 사용하지 않는것이 좋다.
 
+
+
+
     const clientID = "2vkiu8dsqc";
-
-
-
 
 }
