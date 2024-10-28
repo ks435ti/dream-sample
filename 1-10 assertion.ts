@@ -25,6 +25,5 @@
 
 
 
-    const secretKey2 = "2vkiu8dsqc";
 
 }
