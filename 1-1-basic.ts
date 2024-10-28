@@ -9,7 +9,7 @@
     const num: number = 1;
 
     // string
-    const str: string = "hello"
+    const str: string = "hello";
 
     // boolean
     const bool: boolean = false;
@@ -18,7 +18,7 @@
     let name: undefined;// 💩
     let age: number | undefined;
     age = undefined;
-    age = 1
+    age = 1;
     function find(): number | undefined {
         return undefined;
     }
@@ -57,6 +57,7 @@
     let obj: object; // 💩
     function acceptSomeObject(ob: object) { }
 
-    acceptSomeObject({ name: 'ellie' })
-    acceptSomeObject({ animal: 'dog' })
+    acceptSomeObject({ name: 'ellie' });
+    acceptSomeObject({ animal: 'dog' });
+    ///
 }
