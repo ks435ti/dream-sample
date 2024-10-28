@@ -59,5 +59,5 @@
 
     acceptSomeObject({ name: 'ellie' });
     acceptSomeObject({ animal: 'dog' });
-    ///
+
 }
